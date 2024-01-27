@@ -1,5 +1,5 @@
 # Overview
-DICE is a straight-forward, engaging, and interactive web-based dice game. It is designed for two players who take turns to roll a virtual dice. The player rolling the higher number wins the round. The game is built using HTML, CSS, and JavaScript, emphasizing user-friendly design and smooth gameplay.
+DICE1v1 is a straight-forward, engaging, and interactive web-based dice game. It is designed for two players who take turns to roll a virtual dice. The player rolling the higher number wins the round. The game is built using HTML, CSS, and JavaScript, emphasizing user-friendly design and smooth gameplay.
 
 # Features
 Simple and Intuitive UI: A clean and easy-to-navigate user interface.
