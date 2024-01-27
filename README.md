@@ -7,6 +7,9 @@ Responsive Design: Optimized for various screen sizes and devices (for Phone and
 Score Tracking: Real-time score update after each roll.
 Multi-Round Gameplay: Players can play multiple rounds to get total scoring.
 
+# Game Layout
+
+
 # How to Play
 Starting the Game: Open the game in a web browser. No installation required.
 Playing a Round: Each player takes turns to click the "Roll Dice" button.
@@ -17,3 +20,7 @@ Winning the Game: The first player to reach a predetermined number of points, or
 HTML5
 CSS3
 JavaScript
+
+# Source
+Images from: https://www.pinterest.com/
+Gaming background from: 
