@@ -8,7 +8,8 @@ Score Tracking: Real-time score update after each roll.
 Multi-Round Gameplay: Players can play multiple rounds to get total scoring.
 
 # Game Layout
-https://github.com/jiamliu/dice-movement-game/blob/main/layout.png
+![layout](https://github.com/jiamliu/dice-movement-game/assets/139939637/694858d8-4ba6-48bf-8d02-8dde206a8782)
+
 
 # How to Play
 Starting the Game: Open the game in a web browser. No installation required.
