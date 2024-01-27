@@ -8,7 +8,7 @@ Score Tracking: Real-time score update after each roll.
 Multi-Round Gameplay: Players can play multiple rounds to get total scoring.
 
 # Game Layout
-
+layout.png
 
 # How to Play
 Starting the Game: Open the game in a web browser. No installation required.
