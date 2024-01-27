@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dice Duel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="dark-mode-toggle">
+        <button id="darkModeToggle">Dark Mode</button>
+    </div>
+
+    <div class="game-container">
+        <h1>Dice Duel</h1>
+        
+        <div class="scoreboard">
+            <div id="player1-score" class="score">Player 1 Wins: <span>0</span></div>
+            <div id="player2-score" class="score">Player 2 Wins: <span>0</span></div>
+        </div>
+
+        <div class="dice-area">
+            <img id="dice1" src="dice1.png" alt="Dice 1">
+            <img id="dice2" src="dice1.png" alt="Dice 2">
+        </div>
+
+        <button id="rollButton">Roll Dice</button>
+
+        <div id="message"></div>
+
+        <button id="resetButton">Reset Game</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
