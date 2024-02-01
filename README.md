@@ -18,10 +18,9 @@ Scoring: The player with the higher number on the dice wins the round and gets a
 Winning the Game: The first player to reach a predetermined number of points, or the player with the most points after a set number of rounds, wins the game.
 
 # Technology to be used
-HTML5
-CSS3
+HTML
+CSS
 JavaScript
 
 # Source
 Images from: https://www.pinterest.com/
-Gaming background from: 
